@@ -21,7 +21,7 @@ export const sendReservation = async(req, res, next)=>{
             message: "Reservation sent successfully",
         })
     }catch (error) {
-        if(error.name === "validationError"){
+        if(error.name === "ValidationError"){
             const validationErrors = Object.values(error.errors).map(
                 (err) => err.message
             );
