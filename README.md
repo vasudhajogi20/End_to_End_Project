@@ -14,11 +14,6 @@ This project is designed for a restaurant that wants to offer customers a simple
 
 ---
 
-## 🚀 Live Demo
-
-> Coming soon... (Optional: Add deployment link here if hosted on Netlify, Vercel, Render, etc.)
-
----
 
 ## 🛠️ Tech Stack
 
